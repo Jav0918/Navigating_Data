@@ -5,7 +5,8 @@ Summary: This is a simple demonstration of using data structures and algorithms 
 ## Goals & Non-Goals
 demonstrate fundamental understanding of data structures and algorithms
 
-## Who Is This For? This was a personal hobby project
+## Who Is This For? 
+This was a personal hobby project
 
 ## Why Should You Care About It? 
 Just another personal project, you don't really have to care about it.
