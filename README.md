@@ -7,7 +7,9 @@ demonstrate fundamental understanding of data structures and algorithms
 
 ## Who Is This For? This was a personal hobby project
 
-## Why Should You Care About It? Just another personal project, you don't really have to care about it.
+## Why Should You Care About It? 
+Just another personal project, you don't really have to care about it.
 
 
-## What's Next? Still working on that part.
+## What's Next? 
+Still working on that part.
